@@ -1,4 +1,7 @@
 Hello World!
 Dev Branch
+<<<<<<< HEAD
 lara lappa laye rakha da
+=======
 hello testing 1 2 3
+>>>>>>> dev
